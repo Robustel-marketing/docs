@@ -87,3 +87,8 @@ This is a list of commercial LoRaWAN gateways currently available for purchase. 
 + [UG85 Indoor Gateway](https://www.ursalink.com/en/ug85-lorawan-gateway/): internal 3G/4G modem and a network server, palm-sized.
 
 + [UG87 Outdoor Gateway](https://www.ursalink.com/en/ug87-lorawan-gateway/): 16-channel, easy-to-configure, waterproof outdoor gateway*.
+
+## Robustel
+
++ [Robustel R3000 LG LoRaWAN Gateway] (https://www.robustel.com/product/r3000-lg-industrial-lorawan-gateway/): Robustel R3000 LG is an industrial-grade 8 channel LoRaWAN gateway, compatible with any LoRaWAN cloud server and supporting global LoRaWAN frequency bands with Cellular 4G LTE Backup
+
